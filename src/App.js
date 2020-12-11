@@ -3,7 +3,7 @@ import './App.css';
 
 /************************************************ 
 Note: 
-Intentionally used class based components instead of Hooks as PRoblem statement mentioned object-oriented programming. 
+Intentionally used class based components instead of Hooks as Problem statement mentioned object-oriented programming. 
 Otherwise, Hooks are cleaner to implement and make code readability better. 
 *************************************************/
 
